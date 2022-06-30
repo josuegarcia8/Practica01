@@ -1,4 +1,4 @@
-# Practica01
+# Practica01 Web y Patrones
 
 Josue Garcia
 Edson Hernandez
